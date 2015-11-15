@@ -1,28 +1,40 @@
-name: lupape
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.41719
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.0734767
+  lightness: 0.7921147
+  brandStrength: 0.8781362
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#B4EA0D'
     - '#25272A'
     - '#A5A7AA'
-  brandStrength: 0.5053763
-  lightness: 0.2455197
-  saturation: 0.6451613
-  rhythmicContrast: 0.8458781
-purpose: []
+  rhythmicContrast: 0.1792115
+typography_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.0125448
+favicon: null
+name: lupape
