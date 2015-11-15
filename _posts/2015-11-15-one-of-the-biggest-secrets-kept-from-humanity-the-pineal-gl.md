@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thespiritscience.net/2015/11/09/one-of-the-biggest-secrets-kept-from-humanity-the-pineal-gland/'
 title: 'One of The Biggest Secrets Kept From Humanity: The Pineal Gland'
-datePublished: '2015-11-15T01:51:19.930Z'
-dateModified: '2015-11-15T01:50:19.877Z'
+datePublished: '2015-11-15T02:12:11.583Z'
+dateModified: '2015-11-15T01:51:19.930Z'
 sourcePath: _posts/2015-11-15-one-of-the-biggest-secrets-kept-from-humanity-the-pineal-gl.md
 published: true
 inFeed: true
