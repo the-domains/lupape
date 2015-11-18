@@ -4,8 +4,15 @@
         <description><![CDATA[lupape]]></description>
         <link>https://thegrid.ai/lupape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 04:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 04:01:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lupape/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Human + A.I. = Your Digital Future - Nir and Far]]></title>
+            <description><![CDATA[<article><h1>Human + A.I. = Your Digital Future - Nir and Far</h1><p>In the new film Ex Machina , a reclusive billionaire invents a robotic artificial intelligence. To test whether his invention is indistinguishable from a human being, he helicopters-in a young engineer to see if he falls in love with the robot. Today, making machines and humans indistinguishable from each other is no longer science fiction, it's good business.</p><img src="http://www.nirandfar.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-21-at-11.08.04-PM-300x296.png"></article>]]></description>
+            <link>http://www.nirandfar.com/2015/07/the-message-is-the-medium-3-reasons-apps-as-assistants-work.html</link>
+            <guid isPermaLink="false">160d0ee7-acf7-4e4d-9dcc-2eb4a16284e0</guid>
+            <pubDate>Wed, 18 Nov 2015 04:00:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No UI Is The New UI]]></title>
             <description><![CDATA[<article><h1>No UI Is The New UI</h1><p>A few months ago, I shared with my friends how I think apps like Magic and Operator are going to be the next big thing. What makes them special is that they don't use a traditional UI as a means of interaction. Instead, the entire app revolves around a single messaging screen.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/gates-jobs-tablets.jpg?w=1024&h=591"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thespiritscience.net/2015/11/09/one-of-the-biggest-secrets-kept-from-humanity-the-pineal-gland/</link>
             <guid isPermaLink="false">ab35c2f9-da53-4b35-926e-b1d6bd18bdd6</guid>
             <pubDate>Sun, 15 Nov 2015 02:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has NASA's Kepler Mission Discovered an Alien Megastructure? - Discovery News - MediumHas NASA's Kepler Mission Discovered an Alien Megastructure? - Discovery News - Medium]]></title>
-            <description><![CDATA[<h1>Has NASA's Kepler Mission Discovered an Alien Megastructure? - Discovery News - MediumHas NASA's Kepler Mission Discovered an Alien Megastructure? - Discovery News - Medium</h1>]]></description>
-            <link>urn:uuid:24db4fcd-ac31-43b5-a3d3-ae9588f37d0d</link>
-            <guid isPermaLink="false">ce2cb0f1-8a7d-4fbb-b646-08ba34cf0cb1</guid>
-            <pubDate>Sun, 15 Nov 2015 02:12:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
