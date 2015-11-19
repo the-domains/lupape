@@ -1,7 +1,7 @@
 name: lupape
 favicon: null
 layout_spectrum: 0.2443
-typography_spectrum: 0.5
+typography_spectrum: 0.65607
 collections:
   - index:
       path: /
