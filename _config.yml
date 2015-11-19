@@ -1,8 +1,7 @@
 name: lupape
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2443
+typography_spectrum: 0.5
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2275986
-  brandStrength: 0.8781362
-  lightness: 0.3978495
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#B4EA0D'
     - '#25272A'
     - '#A5A7AA'
+  brandStrength: 0.8781362
+  lightness: 0.3978495
+  saturation: 0.2275986
   rhythmicContrast: 0.3727598
-typography_spectrum: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.5949821
+purpose: []
