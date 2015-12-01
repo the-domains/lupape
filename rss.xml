@@ -4,8 +4,15 @@
         <description><![CDATA[lupape]]></description>
         <link>https://thegrid.ai/lupape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 10:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 13:57:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lupape/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Knox Payments]]></title>
+            <description><![CDATA[<article><h1>Knox Payments</h1><p>"Firms such as Dwolla and Knox Payments in the US have emerged to offer domestic users transfer for well under a dollar, providing low cost alternatives for funding accounts."</p><img src="https://knoxpayments.com/kpdotcom/images/screens/step1.png"></article>]]></description>
+            <link>https://knoxpayments.com/?ref=producthunt#Introduction</link>
+            <guid isPermaLink="false">d1a679e1-e96d-48f3-a1f7-da2e21f19a7c</guid>
+            <pubDate>Tue, 01 Dec 2015 13:57:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Electric Turing Acid Test]]></title>
             <description><![CDATA[<article><h1>The Electric Turing Acid Test</h1><p>The Electric Turing Acid Test http://flip.it/e9qCp</p><img src="http://motherboard-images.vice.com/content-images/contentimage/28115/1448397705267832.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Human + A.I. = Your Digital Future - Nir and Far</h1><p>In the new film Ex Machina , a reclusive billionaire invents a robotic artificial intelligence. To test whether his invention is indistinguishable from a human being, he helicopters-in a young engineer to see if he falls in love with the robot. Today, making machines and humans indistinguishable from each other is no longer science fiction, it's good business.</p><img src="http://www.nirandfar.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-21-at-11.08.04-PM-300x296.png"></article>]]></description>
             <link>http://www.nirandfar.com/2015/07/the-message-is-the-medium-3-reasons-apps-as-assistants-work.html</link>
             <guid isPermaLink="false">160d0ee7-acf7-4e4d-9dcc-2eb4a16284e0</guid>
-            <pubDate>Wed, 18 Nov 2015 04:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No UI Is The New UI]]></title>
-            <description><![CDATA[<article><h1>No UI Is The New UI</h1><p>A few months ago, I shared with my friends how I think apps like Magic and Operator are going to be the next big thing. What makes them special is that they don't use a traditional UI as a means of interaction. Instead, the entire app revolves around a single messaging screen.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/gates-jobs-tablets.jpg?w=1024&h=591"></article>]]></description>
-            <link>http://techcrunch.com/2015/11/11/no-ui-is-the-new-ui/?sr_share=facebook#.j3m4fa:1EQj</link>
-            <guid isPermaLink="false">074ea77b-8ffd-46d7-a2ee-dba938eabb4c</guid>
             <pubDate>Wed, 18 Nov 2015 04:00:19 GMT</pubDate>
         </item>
     </channel>
