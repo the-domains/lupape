@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.5
-  rhythmicContrast: 0.3727598
-  brandColors:
-    - '#ffffff'
-    - '#cbb1be'
-    - '#a694b8'
-    - '#0000ff'
-    - '#ff8080'
   lightness: 1
+  brandStrength: 0.4892473
+  brandColors:
+    - '#BD9180'
+    - '#1F201F'
+    - '#FFFFFF'
+    - '#26AD5C'
+    - '#76BCE9'
+  rhythmicContrast: 0.3727598
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: lupape
 favicon: null
+name: lupape
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2842
-layout_spectrum: 0.827957
+layout_spectrum: 0.6684588
