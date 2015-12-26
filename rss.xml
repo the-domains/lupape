@@ -4,7 +4,7 @@
         <description><![CDATA[lupape]]></description>
         <link>https://thegrid.ai/lupape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 12:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 12:48:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lupape/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[illusion]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lupape/illusion/index.html</link>
             <guid isPermaLink="false">0b3aef12-b0df-4fd0-a0f0-4a90efa4a0bd</guid>
             <pubDate>Tue, 22 Dec 2015 05:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Machine Learns to Drive Using Crowdteaching | MIT Technology Review]]></title>
+            <description><![CDATA[<article><h1>AI Machine Learns to Drive Using Crowdteaching | MIT Technology Review</h1><p>AI Machine Learns to Drive Using Crowdteaching http://flip.it/R_Ijo</p><img src="http://www.technologyreview.com/sites/default/files/images/Driverseat.PNG"></article>]]></description>
+            <link>https://thegrid.ai/lupape/ai-machine-learns-to-drive-using-crowdteaching-httpflipi/index.html</link>
+            <guid isPermaLink="false">da61240a-8dfb-44e0-93fc-8fd1faae9051</guid>
+            <pubDate>Sat, 26 Dec 2015 12:47:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scientists Discover "Intelligence" Genes That Code For Cognitive Ability]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/145585607</link>
             <guid isPermaLink="false">f323e3f2-5296-4f0c-a35a-b318ab9cb4f7</guid>
             <pubDate>Sun, 22 Nov 2015 15:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Unicorn Workflow, Design to Code with Atomic Design Principles and Sketch - RE: Write]]></title>
-            <description><![CDATA[<article><h1>The Unicorn Workflow, Design to Code with Atomic Design Principles and Sketch - RE: Write</h1><p>The Unicorn Workflow, Design to Code with Atomic Design Principles and Sketch - RE: Write - Medium</p></article>]]></description>
-            <link>https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37#.szj0kk7fi</link>
-            <guid isPermaLink="false">3f623aa8-9caa-43ce-8cbc-9e45e8ba9ff8</guid>
-            <pubDate>Thu, 19 Nov 2015 16:03:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
