@@ -4,7 +4,7 @@
         <description><![CDATA[lupape]]></description>
         <link>https://thegrid.ai/lupape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 12:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 12:48:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lupape/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[illusion]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lupape/illusion/index.html</link>
             <guid isPermaLink="false">0b3aef12-b0df-4fd0-a0f0-4a90efa4a0bd</guid>
             <pubDate>Tue, 22 Dec 2015 05:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The future of motion in UX design]]></title>
+            <description><![CDATA[<article><h1>The future of motion in UX design</h1><p>The future of motion in UX design http://thenextweb.com/uxdesign/2015/12/25/the-future-of-motion-in-ux-design/?ref=webdesignernews.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b843e74755c1b537d7509e5f0fddfdef125b1ad4.png"></article>]]></description>
+            <link>https://thegrid.ai/lupape/the-future-of-motion-in-ux-design-httpthenextwebcomuxde/index.html</link>
+            <guid isPermaLink="false">e67fe035-406d-4fa1-8847-753ebf1fdf0a</guid>
+            <pubDate>Sat, 26 Dec 2015 12:47:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI Machine Learns to Drive Using Crowdteaching | MIT Technology Review]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Michel Gondry | The Talks</h1><p>I do as few commercials as possible, maybe one or two per year because it allows me to do the movies that I want to do. I confess I am not proud of doing commercials. If tomorrow I could make a decision that would make the commercials disappear altogether, I would make this decision even if it means I would gain much less money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c5c6eb9ad1d225780e49ea2c048362169b82d20.jpg"></article>]]></description>
             <link>http://the-talks.com/interviews/michel-gondry/</link>
             <guid isPermaLink="false">879b7ce7-9e02-4efc-80d6-bb7c8ef81c29</guid>
-            <pubDate>Sun, 22 Nov 2015 15:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Nicole Wilson: 3 Ways Exponential Technologies Are Impacting the Future of Learning]]></title>
-            <description><![CDATA[<article><h1>Dr. Nicole Wilson: 3 Ways Exponential Technologies Are Impacting the Future of Learning</h1><p>This is "Dr. Nicole Wilson: 3 Ways Exponential Technologies Are Impacting the Future of Learning" by Singularity University on Vimeo, the home for high...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/387cb95afbac26f86ac129e373f5387d98fab0b8.jpg"></article>]]></description>
-            <link>https://vimeo.com/145585607</link>
-            <guid isPermaLink="false">f323e3f2-5296-4f0c-a35a-b318ab9cb4f7</guid>
             <pubDate>Sun, 22 Nov 2015 15:41:11 GMT</pubDate>
         </item>
     </channel>
