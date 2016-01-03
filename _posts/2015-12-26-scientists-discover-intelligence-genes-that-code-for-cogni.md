@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.iflscience.com/brain/genes-work-together-intelligence-networks-within-your-brain'
 title: 'Scientists Discover "Intelligence" Genes That Code For Cognitive Ability'
-datePublished: '2015-12-26T12:47:57.187Z'
-dateModified: '2015-12-26T04:14:16.633Z'
+datePublished: '2016-01-03T20:45:24.338Z'
+dateModified: '2015-12-26T12:47:57.187Z'
 sourcePath: _posts/2015-12-26-scientists-discover-intelligence-genes-that-code-for-cogni.md
 published: true
 inFeed: true
