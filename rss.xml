@@ -4,7 +4,7 @@
         <description><![CDATA[lupape]]></description>
         <link>https://thegrid.ai/lupape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 20:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 20:46:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lupape/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[illusion]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lupape/illusion/index.html</link>
             <guid isPermaLink="false">0b3aef12-b0df-4fd0-a0f0-4a90efa4a0bd</guid>
             <pubDate>Tue, 22 Dec 2015 05:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Science Fiction That Came to Life This Year]]></title>
+            <description><![CDATA[<article><h1>Science Fiction That Came to Life This Year</h1><p>Science Fiction That Came to Life This Year http://flip.it/uc17V</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55a63e6445b559447191dbef2b01cc2e4adbf225.jpg"></article>]]></description>
+            <link>http://flip.it/uc17V</link>
+            <guid isPermaLink="false">8afe5673-1dcc-43fb-8eff-eaf3b99fcdbc</guid>
+            <pubDate>Sun, 03 Jan 2016 20:45:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[glitch]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@gutanaka/por-que-parei-de-buscar-meu-prop%C3%B3sito-5b2588e51a8d</link>
             <guid isPermaLink="false">02d9b61d-1ab8-4ceb-b7ad-1b497886f1d6</guid>
             <pubDate>Sun, 22 Nov 2015 20:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Human Tests of Memory Boosting Brain Implant-a Big Leap Forward - Singularity HUB]]></title>
-            <description><![CDATA[<article><h1>First Human Tests of Memory Boosting Brain Implant-a Big Leap Forward - Singularity HUB</h1><p>38,364 3 "You have to begin to lose your memory, if only bits and pieces, to realize that memory is what makes our lives. Life without memory is no life at all." - Luis Buñuel Portolés, Filmmaker Every year, hundreds of millions of people experience the pain of a failing memory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76309e7e3d7ce5e6e0ff623f30c374428d1fd5d7.jpg"></article>]]></description>
-            <link>http://singularityhub.com/2015/11/15/first-human-tests-of-memory-boosting-brain-implant-a-big-leap-forward/?utm_content=bufferd6653&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">5d8bd34c-7917-4291-858a-fb9bedb10821</guid>
-            <pubDate>Sun, 22 Nov 2015 15:41:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
