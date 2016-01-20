@@ -4,7 +4,7 @@
         <description><![CDATA[lupape]]></description>
         <link>https://thegrid.ai/lupape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 21:49:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lupape/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[illusion]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lupape/illusion/index.html</link>
             <guid isPermaLink="false">0b3aef12-b0df-4fd0-a0f0-4a90efa4a0bd</guid>
             <pubDate>Tue, 22 Dec 2015 05:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This 3-minute animation will change the way you see the universe&period;" src="https://scontent.xx.fbcdn.net/hvthumb-xtf1/v/t15.0-10/p100x100/11919520_1224543684233307_1159448529_n.jpg?oh=4e4c6aea2ea4d242973c33efac138582&oe=573C4937">]]></description>
+            <link>https://www.facebook.com/businessinsider/videos/10153078337849071/?fref=nf</link>
+            <guid isPermaLink="false">f8600baa-f7b5-4034-a747-be6c732e4dbb</guid>
+            <pubDate>Wed, 20 Jan 2016 21:48:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://knoxpayments.com/?ref=producthunt#Introduction</link>
             <guid isPermaLink="false">d1a679e1-e96d-48f3-a1f7-da2e21f19a7c</guid>
             <pubDate>Tue, 01 Dec 2015 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Electric Turing Acid Test]]></title>
-            <description><![CDATA[<article><h1>The Electric Turing Acid Test</h1><p>The Electric Turing Acid Test http://flip.it/e9qCp</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b4494a8df407c2fb1b28d799633f19b6579e096.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lupape/the-electric-turing-acid-test-httpflipite9qcp/index.html</link>
-            <guid isPermaLink="false">49f73268-354e-4bcb-8a15-2c93d9185589</guid>
-            <pubDate>Mon, 30 Nov 2015 10:26:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
